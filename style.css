@@ -1,0 +1,11 @@
+/* #kk {
+    background: linear-gradient( 180deg, #190cd8 40%, rgb(190, 22, 231) 90%, yellow 20%);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+#klk{
+    background: radial-gradient( green 40%, blue 80%);
+    color: transparent ;
+    -webkit-background-clip: text;
+} */
